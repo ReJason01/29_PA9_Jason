@@ -1,0 +1,9 @@
+C:\Users\raush\source\repos\16_Raushan\16_Raushan\bin\Debug\16_Raushan.exe.config
+C:\Users\raush\source\repos\16_Raushan\16_Raushan\bin\Debug\16_Raushan.exe
+C:\Users\raush\source\repos\16_Raushan\16_Raushan\bin\Debug\16_Raushan.pdb
+C:\Users\raush\source\repos\16_Raushan\16_Raushan\obj\Debug\16_Raushan.csprojAssemblyReference.cache
+C:\Users\raush\source\repos\16_Raushan\16_Raushan\obj\Debug\_16_Raushan.asd.resources
+C:\Users\raush\source\repos\16_Raushan\16_Raushan\obj\Debug\_16_Raushan.Properties.Resources.resources
+C:\Users\raush\source\repos\16_Raushan\16_Raushan\obj\Debug\16_Raushan.csproj.GenerateResource.cache
+C:\Users\raush\source\repos\16_Raushan\16_Raushan\obj\Debug\16_Raushan.exe
+C:\Users\raush\source\repos\16_Raushan\16_Raushan\obj\Debug\16_Raushan.pdb
